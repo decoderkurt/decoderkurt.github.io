@@ -27,17 +27,14 @@ title:                 Kurt
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  Reinforcement Learning / Blockchain / Unity / Finance 
 
 # A shorter description for the sidebar.
-tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+#tagline:               >
+# Reinforcement Learning / Blockchain / Unity / Finance 
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Reinforcement Learning / Blockchain / Unity / Finance ]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -229,7 +226,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/decoderkurt
 
 
 # Other Plugins
